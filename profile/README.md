@@ -8,7 +8,7 @@ I'm making **The Tales of Saltwick Isles**, a cosy adventure with optional comba
 
 | Addon | What it does |
 | --- | --- |
-| [palette-adjust](https://github.com/saltwickstudio/palette-adjust) | Recolour single swatches on palette-textured models like the KayKit packs: hue, saturation, brightness, metallic, emission and more, per swatch. |
+| [kaykit-palette-adjust](https://github.com/saltwickstudio/kaykit-palette-adjust) | Recolour single swatches on palette-textured models like the KayKit packs: hue, saturation, brightness, metallic, emission and more, per swatch. |
 
 ## About me
 
